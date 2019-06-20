@@ -1,10 +1,11 @@
 ---
 layout: archive
 permalink: /ilpr/
-title: "Identification of  Landlords and Potential Retaliation"
+title: "Code Violations & Evictions"
 ---
 
-Metrics Evaluating Distance Between Code Violations and Eviction Filings.
+Landlords have an obligation to keep properties up to code and are prohibited from evicting a tenant for reporting building code violations. Identify evictions filed within 90 days of a building code violation and parcels with open orders upon eviction filing. <strong> These metrics are currently under active development. <strong>
+    
 
 <div class="tiles">
 {% for post in site.categories.ilpr %}

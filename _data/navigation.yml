@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Eviction
+- title: Eviction Metrics
   url: /general_eviction/
-  excerpt: "City of Milwaukee eviction data and  case outcomes"
+  excerpt: "Aggregate City of Milwaukee eviction data and case outcomes."
 
-- title: Spatial Analysis
+- title: Maps
   url: /sda/
   excerpt: "All spatial analyses"
 
-- title: Potential Retaliation
+- title: Code Violations & Evictions
   url: /ilpr/
-  excerpt: 'Metrics built to identify ownership and potential violations of tenant rights'
+  excerpt: 'Identify evictions filed within 90 days of a building code violations and parcels with open orders upon eviction filing.'
 
 
 - title: About

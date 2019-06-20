@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /general_eviction/
-title: "General Eviction Data"
+title: "Eviction Metrics"
 ---
 
-City of Milwaukee eviction data and  case outcomes.
+Aggregate City of Milwaukee eviction data and case outcomes. View yearly and monthly trends. See top evictors by lead plantiff.
 
 <div class="tiles">
 {% for post in site.categories.general_eviction %}
