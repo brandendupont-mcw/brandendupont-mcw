@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /about/
-title: 
+title: About This Project
 share: False
 ---
 
