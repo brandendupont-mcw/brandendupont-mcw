@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Affidavit of Noncompliance"
+title: "Writ of Restitution"
 category: general_eviction
 link: https://public.tableau.com/views/NearWestSideLicenses-/ExisitingNWSLicenses-?:embed=y&:display_count=yes
 text: Go to Viz
