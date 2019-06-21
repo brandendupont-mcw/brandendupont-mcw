@@ -5,7 +5,7 @@ title:
 share: False
 ---
 
-### About This Project:
+### Overview:
 
 Matt Desmond's research and years of ethnographic fieldwork in Milwaukee made the case that eviction is not just a symptom of poverty, but also a cause. Due to his work, there is a renewed nationwide and local focus on eviction and housing policy in general. Here is Milwaukee, the Wisconsin Policy Forum and now UEDA have convened a Milwaukee Eviction Prevention coalition to focus on effective ways to prevent eviction.
 
