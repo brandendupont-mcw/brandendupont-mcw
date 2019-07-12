@@ -19,7 +19,7 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 
 #### Map Filter and Selection
 
-<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter automatically updates the count of evictions filed in the upper right corner. Violation categories filter based on whether a DNS violation contained at least one offense in the selected category. When multiple violation filters are selected, the DNS order that occured within 90 days before the eviction filing contains each violation type.</dl>
+<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter automatically updates the count of evictions filed in the upper right corner. Violation categories filter based on whether a DNS violation contained at least one offense in the selected category. When multiple violation filters are selected, the DNS order that occurred within 90 days before the eviction filing contains each violation type.</dl>
 
 <dt> <strong>Sanitary Conditions: </strong> DNS violations issued under subchapter 275-81: Sanitary Conditions.</dt>
 
@@ -39,9 +39,9 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 
 <dt> <strong>Open DNS Violations When Eviction is Filed: </strong> DNS order is still unresolved at the time of eviction filing.</dt>
 
-<dt> <strong>Evt 60 days: </strong>DNS order occured within 60 days before the eviction filing .</dt>
+<dt> <strong>Evt 60 days: </strong>DNS order occurred within 60 days before the eviction filing .</dt>
 
-<dt> <strong>Evt 30 days: </strong> DNS order occured within 30 days before the eviction filing.</dt>
+<dt> <strong>Evt 30 days: </strong> DNS order occurred within 30 days before the eviction filing.</dt>
 
 
 #### Map Tooltip Definitions
@@ -51,7 +51,7 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 <dl>
   <dt> <strong> Proximate Eviction: </strong> The distance in days between when a DNS order is issued and eviction is filed.</dt>
     
-  <dt> <strong>Lead Plantiff: </strong> Lead plantiff is the first name in an eviction filing. The owner of a property is not always who is listed as the lead plantiff in an eviction filing. Commonly filed evictions taken the most frequent lead plantiff from the previous year.</dt>
+  <dt> <strong>Lead Plaintiff : </strong> Lead plaintiff  is the first name in an eviction filing. The owner of a property is not always who is listed as the lead plaintiff  in an eviction filing. Commonly filed evictions taken the most frequent lead plaintiff  from the previous year.</dt>
     
   <dt> <strong>Primary Land Use: </strong> The City of Milwaukee's Master Property File maintains the primary land use for each parcel. Example categories include single or two family.</dt>
     
@@ -69,7 +69,7 @@ Information on current land use and listed property owners retrieved from the Ci
 
  <strong> Eviction Records </strong> 
 
-Eviction data is pulled from the WCCA REST Interface — programtic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data.
+Eviction data is pulled from the WCCA REST Interface — programmatic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data.
 
  <strong> DNS Code Violations  </strong> 
 
