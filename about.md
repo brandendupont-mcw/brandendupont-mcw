@@ -21,5 +21,3 @@ This partnership has resulted in:
 Thanks goes to ProPublica whose work matching eviction records to building parcels for their [Rent Stabilization and Eviction Map](https://projects.propublica.org/evictions/#15.99/40.8193/-73.9148) served as a major inspiration. Additionally, the [Eviction Lab's Methods Report](https://evictionlab.org/docs/Eviction%20Lab%20Methodology%20Report.pdf) detailing their approach to match an eviction record to an address was an invaluable resource. 
 
 Thanks also to City Staff at the Department of Neighborhood Services and the City Attorney's Office as well as Legal Action of Wisconsin. In addition to financing this project, their time and feedback has been essential.
-
-A full write up of methods is forthcoming and will be available here.
