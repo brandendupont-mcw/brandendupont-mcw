@@ -15,7 +15,7 @@ image:
 
 ###  About
 
-This visualization tracks the plantiffs who most frequently file Affidavits of Noncompliance after agreeing to a stipulated dismissal. Data can be filtered by filing year.
+This visualization tracks the plantiffs who most frequently file Affidavits of Noncompliance after agreeing to a Stipulated Dismissal. Data can be filtered by filing year.
 
 <dt> <strong> Eviction Filing: </strong> represents a court action typically filed by a landlord or property manager to begin eviction proceedings.</dt>
 
