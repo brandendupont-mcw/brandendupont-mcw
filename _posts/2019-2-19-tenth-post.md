@@ -12,7 +12,7 @@ image:
 ---
 <iframe src="https://public.tableau.com/shared/JBY8Y53Q4?:display_count=yes&:origin=viz_share_link?:showVizHome=no&:embed=true" allowfullscreen="true" width="1015" height="835"></iframe>
 
-## Eviction Filings by Lead Plaintiff.
+## About
 
 This map displays eviction filings by Top Lead Plantiff.
 
