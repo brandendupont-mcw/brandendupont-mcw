@@ -15,7 +15,7 @@ image:
 
 ## About Evictions and Code Violations
 
-Landlords have an obligation to keep properties up to code and are prohibited from evicting a tenant for reporting building code violations. This interactive tool allows a user to identify evictions filed within 90 days of a building code violation and parcels with open orders upon eviction filing. At this point data is not regularly updated like other visualizations on this site. Data was last updated in December 2018.
+Landlords have an obligation to keep properties up to code and are prohibited from evicting a tenant for reporting building code violations. This interactive tool allows a user to identify evictions filed within 90 days of a building code violation and parcels with open orders upon eviction filing. At this point, data is not regularly updated like other visualizations on this site. Data was last updated in December 2018.
 
 #### Map Filter and Selection
 
@@ -46,7 +46,7 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 
 #### Map Tooltip Definitions
 
-<dt>All Metrics Are Calculated at the Parcel Level and link on Taxkey. Each violation order ID and proximate eviction is provided in the tooltip. Large multi-families evict at a higher rate relative to single and two family homes. </dt>
+<dt>All Metrics cre calculated at the parcel level and link on Taxkey. Each violation order ID and proximate eviction is provided in the tooltip. Large multi-families evict at a higher rate relative to single and two family homes. </dt>
 
 <dl>
   <dt> <strong> Proximate Eviction: </strong> The distance in days between when a DNS order is issued and eviction is filed.</dt>
