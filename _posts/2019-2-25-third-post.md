@@ -34,9 +34,9 @@ This map displays eviction filings at the parcel level. For a visual depiction o
     
     <dt> <strong>Eviction Month: </strong> view eviction filings by a given month.</dt>
     
-    <dt> <strong>Landowner: </strong> search by current owner. Deselect all, search for a given plantiff name, and click apply.</dt>
+    <dt> <strong>Landowner: </strong> search by current owner. Deselect all, search for a given plaintiff name, and click apply.</dt>
     
-    <dt> <strong>Lead Plantiff: </strong> search by the lead plantiff in each court record. Deselect all, search for a given plantiff name, and click apply.</dt>
+    <dt> <strong>Lead Plaintiff: </strong> search by the lead plaintiff in each court record. Deselect all, search for a given plaintiff name, and click apply.</dt>
     
     <dt> <strong>1-2 Family: </strong> filter map to include properties whose land use is single or two family residential.</dt>
     
@@ -60,13 +60,13 @@ This map displays eviction filings at the parcel level. For a visual depiction o
 <dl>
   <dt> <strong> Eviction filing: </strong> represents a court action typically filed by a landlord or property manager to begin eviction proceedings.</dt>
     
-  <dt> <strong>Eviction Judgement: </strong> represents a court granting the plantiff a judgement for eviction.</dt>
+  <dt> <strong>Eviction Judgement: </strong> represents a court granting the plaintiff a judgement for eviction.</dt>
   
   <dt> <strong>Eviction Filing Rate: </strong> represents the number of evictions filed per year divided by the number of units at the parcel. Rates are calculated at 1 and 3 year intervals. A parcel can have an eviction filing rate over 100% in a given year. This can be due to month-to-month tenancy or multiple evictions against the same tenant.</dt>
   
   <dt> <strong>Current Owner: </strong> ownership is taken from the City of Milwaukee's Master Property File record and is updated monthly.</dt>
   
-  <dt> <strong>Lead Plantiff: </strong> Lead plantiff is the first name in an eviction filing. The owner of a property is not always who is listed as the lead plantiff in an eviction filing. Commonly filed evictions taken the most frequent lead plantiff from the previous year.</dt>
+  <dt> <strong>Lead Plaintiff: </strong> Lead plaintiff is the first name in an eviction filing. The owner of a property is not always who is listed as the lead plantiff in an eviction filing. Commonly filed evictions taken the most frequent lead plaintiff from the previous year.</dt>
     
   <dt> <strong>Primary Land Use: </strong> The City of Milwaukee's Master Property File maintains the primary land use for each parcel. Example categories include single or two family.</dt>
     
@@ -78,13 +78,13 @@ This map displays eviction filings at the parcel level. For a visual depiction o
     
   <dt> <strong>Defense Attorney: </strong> Counts the total number cases at a given parcel where a defense attorney entered their name and bar number in a court record. This measure will underrepresent any form of representation as same day representation rarely enters attorney information. </dt>
     
-  <dt> <strong>Plantiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plantiff's attorney entered their name and bar number in a court record. </dt>
+  <dt> <strong>Plaintiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plaintiff's attorney entered their name and bar number in a court record. </dt>
     
   <dt> <strong>Average Total Judgement: </strong> Calculates the average total monetary judgement awarded by the court of all cases at a given parcel. </dt>
     
   <dt> <strong> Percent Default Judgement: </strong> Calculates the percentage of cases at a given parcel when the last judgement issued is a default judgemnt. Default judgements are granted when a party does not file a response or attend court.</dt>
   
-   <dt> <strong>Plantiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plantiff's attorney entered their name and bar number in a court record. </dt>
+   <dt> <strong>Plaintiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plaintiff's attorney entered their name and bar number in a court record. </dt>
     
 </dl>
 
@@ -97,7 +97,7 @@ Information on current land use and listed property owners retrieved from the Ci
 
 **Eviction Records**
 
-Eviction data is pulled from the WCCA REST Interface — programtic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data.
+Eviction data is pulled from the WCCA REST Interface — programmatic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data. 
 
 ---
 
@@ -108,4 +108,4 @@ The address information is then cleaned and separated into appropriate columns. 
 
 
 <dl>
-<dt> ProPublica’s searchable mapping tool exploring eviction against rent stabilized units influenced our decision to move pass only identifying where an eviction took place. We linked eviction addresses to a City of Milwaukee parcel using an addresse's Taxkey. Taxkey is a unique ten-digit number assigned to each parcel. This allows us to merge additional information around property, ownership, unit size, and building code violations maintained by the City of Milwaukee. Overall, this process produces a 94.8% parcel match rate. This can be benchmarked to Eviction Lab's 93% geocoding match rate — which includes street center line and census tract geocoding. </dt> </dl>
+<dt> ProPublica’s searchable mapping tool exploring eviction against rent stabilized units influenced our decision to move pass only identifying where an eviction took place. We linked eviction addresses to a City of Milwaukee parcel using an addresses’ Taxkey. Taxkey is a unique ten-digit number assigned to each parcel. This allows us to merge additional information around property, ownership, unit size, and building code violations maintained by the City of Milwaukee. Overall, this process produces a 94.8% parcel match rate. This can be benchmarked to Eviction Lab's 93% geocoding match rate — which includes street center line and census tract geocoding. </dt> </dl>
