@@ -19,4 +19,4 @@ Represents a court action typically filed by a landlord or property manager to b
 
 **Eviction Records**
 
-Eviction data is pulled from the WCCA REST Interface — programtic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data.
+Eviction data is pulled from the WCCA REST Interface — programmatic access to Wisconsin Circuit Court records. Small claims cases in Milwaukee County with a case type of small claims eviction are pulled down and stored on a weekly basis. CCAP provides no warranties as to the accuracy or timeliness of the information contained in the WCCA Data.
