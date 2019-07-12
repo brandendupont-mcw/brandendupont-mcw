@@ -19,7 +19,7 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 
 #### Map Filter and Selection
 
-<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter automatically update the count of evictions filed in the upper right corner. Violation categories filter based on whether a DNS violation contained at least one offense in the selected category. When multiple violation filters are selected, the DNS order that occured within 90 days before the eviction filing contains each violation.</dl>
+<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter automatically updates the count of evictions filed in the upper right corner. Violation categories filter based on whether a DNS violation contained at least one offense in the selected category. When multiple violation filters are selected, the DNS order that occured within 90 days before the eviction filing contains each violation type.</dl>
 
 <dt> <strong>Sanitary Conditions: </strong> DNS violations issued under subchapter 275-81: Sanitary Conditions.</dt>
 
