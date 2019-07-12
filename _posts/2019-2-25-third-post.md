@@ -26,7 +26,7 @@ This map displays eviction filings at the parcel level. For a visual depiction o
 <dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter with the exception of evicting filing rate and total evictions filed will automatically update the count of evictions filed in the upper right corner. Icons can be used to toggle each filter card on and off. Apply a filter to more quickly zoom and explore evictions at a parcel level.</dl>
 
 <dl>    
-    <dt> <strong>3 Year Eviction Filing Rate: </strong> apply this filter to view a selecterange of parcels with a 3 year eviction filing rate i.e. 100%.</dt>
+    <dt> <strong>3 Year Eviction Filing Rate: </strong> apply this filter to view a selected range of parcels with a 3 year eviction filing rate i.e. 100%.</dt>
     
     <dt> <strong>Eviction Filings: </strong> filter parcels by the number of evictions filed at a given property.</dt>
     
@@ -60,7 +60,7 @@ This map displays eviction filings at the parcel level. For a visual depiction o
 <dl>
   <dt> <strong> Eviction filing: </strong> represents a court action typically filed by a landlord or property manager to begin eviction proceedings.</dt>
     
-  <dt> <strong>Eviction Judgement: </strong> represents a court granting the plaintiff a judgement for eviction.</dt>
+  <dt> <strong>Eviction Judgment: </strong> represents a court granting the plaintiff a judgment for eviction.</dt>
   
   <dt> <strong>Eviction Filing Rate: </strong> represents the number of evictions filed per year divided by the number of units at the parcel. Rates are calculated at 1 and 3 year intervals. A parcel can have an eviction filing rate over 100% in a given year. This can be due to month-to-month tenancy or multiple evictions against the same tenant.</dt>
   
