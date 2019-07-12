@@ -14,7 +14,7 @@ image:
 
 ## About
 
-This map displays eviction filings by Top Lead Plantiff.
+This map displays eviction filings by top lead plantiff.
 
 #### Map Filter and Selection
 
