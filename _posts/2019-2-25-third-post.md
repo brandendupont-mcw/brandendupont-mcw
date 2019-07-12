@@ -15,7 +15,7 @@ image:
 <iframe src="https://public.tableau.com/views/TrackingMilwaukeeEvictions/TrackMilwaukeeEvictionFilings?:showVizHome=no&:embed=true&:display_count=yes" allowfullscreen="true" width="1015" height="835"></iframe>
 
 
-## About Track Milwaukee Evictions.
+## About Track Milwaukee Evictions
 
 This map displays eviction filings at the parcel level. For a visual depiction on the difference between a parcel, unit, or address click [here](https://datasmart.ash.harvard.edu/sites/default/files/styles/max_650x650/public/2019-04/Kat%20Hartman%20address_visual%20%281%29_0.png?itok=jzKJhM02) or read a more detailed description [here.](https://datasmart.ash.harvard.edu/news/article/meet-designer-who-leading-data-innovation-detroit-one-story-time) Each point on the map is scaled according to the total number of evictions filed since 2016. The larger the circle the more evictions were filed at a given parcel.
 
