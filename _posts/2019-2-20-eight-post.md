@@ -14,7 +14,7 @@ image:
 
 ### About
 
-Eviction Filing represents a court action typically filed by a landlord or property manager to begin eviction proceedings. This visualization provides a general forecast of evictions filed per month.
+Eviction filing represents a court action typically filed by a landlord or property manager to begin eviction proceedings. This visualization provides a general forecast of evictions filed per month.
 
 **Eviction Records**
 
