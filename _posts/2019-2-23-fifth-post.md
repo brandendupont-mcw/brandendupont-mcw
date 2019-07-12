@@ -46,7 +46,7 @@ Landlords have an obligation to keep properties up to code and are prohibited fr
 
 #### Map Tooltip Definitions
 
-<dt>All Metrics Are Calculated at the Parcel Level and link on Taxkey. Each violation order ID and proximate eviction is provided in the tooltip. Large multi-families evict at a higher rate relative to single and two family. </dt>
+<dt>All Metrics Are Calculated at the Parcel Level and link on Taxkey. Each violation order ID and proximate eviction is provided in the tooltip. Large multi-families evict at a higher rate relative to single and two family homes. </dt>
 
 <dl>
   <dt> <strong> Proximate Eviction: </strong> The distance in days between when a DNS order is issued and eviction is filed.</dt>
