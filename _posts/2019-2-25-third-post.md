@@ -23,7 +23,7 @@ This map displays eviction filings at the parcel level. For a visual depiction o
 
 #### Map Filter and Selection
 
-<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter with the exception of evicting filing rate and total evictions filed will automatically update the count of evictions filed in the upper right corner. Icons can be used to toggle each filter card on and off. Apply a filter to more quickly zoom and explore evictions at a parcel level.</dl>
+<dl> This visualization allows a user to apply a variety of filters to refine the map. Each filter, with the exception of eviction filing rate and total evictions filed, will automatically update the count of evictions filed in the upper right corner. Icons can be used to toggle each filter card on and off. Apply a filter to more quickly zoom and explore evictions at a parcel level.</dl>
 
 <dl>    
     <dt> <strong>3 Year Eviction Filing Rate: </strong> apply this filter to view a selected range of parcels with a 3 year eviction filing rate i.e. 100%.</dt>
