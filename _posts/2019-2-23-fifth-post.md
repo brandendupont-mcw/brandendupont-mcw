@@ -87,7 +87,7 @@ Data is provided via an API that allows a user to regularly pull code violations
 ##### How An Eviction Filing is is Matched to a Parcel
 
 <dt> Defendant address is selected to represent an eviction location. Where multiple addresses exist with a single case, the earliest Milwaukee address in the case is given preference. The court record of events is reviewed to check if any address change took place during the case. If a change is present, the original listed address is parsed from the text and selected. 
-The address information is then cleaned and separated into appropriate columns. Data is filtered to only include records that fell into the City of Milwaukee. We prepossessed the data to improve MAI/DIME match accuracy. This includes steps around converting street to st and removing apt or unit numbers from the address data. Addresses were then validated using the City of Milwaukee's MAI/DIME address locator.</dt>
+The address information is then cleaned and separated into appropriate columns. Data is filtered to only include records that fell into the City of Milwaukee. We preprocessed the data to improve MAI/DIME match accuracy. This includes steps around converting street to st and removing apt or unit numbers from the address data. Addresses were then validated using the City of Milwaukee's MAI/DIME address locator.</dt>
 
 
 <dl>
