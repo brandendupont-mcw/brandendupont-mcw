@@ -55,7 +55,7 @@ This map displays eviction filings at the parcel level. For a visual depiction o
 
 #### Map Tooltip Definitions
 
-<dt>All Metrics Are Calculated at the Parcel Level. </dt>
+<dt>All metrics are calculated at the parcel level. </dt>
 
 <dl>
   <dt> <strong> Eviction filing: </strong> represents a court action typically filed by a landlord or property manager to begin eviction proceedings.</dt>
