@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Final Disposition of Cases Filed in 2016 and 2017"
+title: "Final Disposition of Cases Filed in 2016-2019"
 category: general_eviction
 link: https://public.tableau.com/views/NearWestSideLicenses-/ExisitingNWSLicenses-?:embed=y&:display_count=yes
 text: Go to Viz
