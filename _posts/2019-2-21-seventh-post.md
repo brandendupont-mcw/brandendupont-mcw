@@ -14,7 +14,7 @@ image:
 
 ### Eviction Judgment
 
-Represents a court granting the plantiff a Jjdgment for eviction.
+Represents a court granting the plantiff a judgment for eviction.
 
 **Eviction Records**
 
