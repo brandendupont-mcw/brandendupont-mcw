@@ -12,9 +12,9 @@ image:
 ---
 <iframe src="https://public.tableau.com/views/MilwaukeeEvictionIssued/EvictionsIssued?:showVizHome=no&:embed=true" allowfullscreen="true" width="1015" height="835"></iframe>
 
-### Eviction Judgement
+### Eviction Judgment
 
-Represents a court granting the plantiff a judgement for eviction.
+Represents a court granting the plantiff a Jjdgment for eviction.
 
 **Eviction Records**
 
