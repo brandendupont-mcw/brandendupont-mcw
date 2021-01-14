@@ -80,9 +80,9 @@ This map displays eviction filings at the parcel level. For a visual depiction o
     
   <dt> <strong>Plaintiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plaintiff's attorney entered their name and bar number in a court record. </dt>
     
-  <dt> <strong>Average Total Judgement: </strong> Calculates the average total monetary judgement awarded by the court of all cases at a given parcel. </dt>
+  <dt> <strong>Average Total Judgment: </strong> Calculates the average total monetary judgment awarded by the court of all cases at a given parcel. </dt>
     
-  <dt> <strong> Percent Default Judgement: </strong> Calculates the percentage of cases at a given parcel when the last judgement issued is a default judgemnt. Default judgements are granted when a party does not file a response or attend court.</dt>
+  <dt> <strong> Percent Default Judgment: </strong> Calculates the percentage of cases at a given parcel when the last judgment issued is a default judgment. Default judgements are granted when a party does not file a response or attend court.</dt>
   
    <dt> <strong>Plaintiff Attorney: </strong> Counts the percentage of overall cases at a given parcel where a plaintiff's attorney entered their name and bar number in a court record. </dt>
     
